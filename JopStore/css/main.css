@@ -1,0 +1,34 @@
+.menu{
+    background-color: rgb(214, 212, 209)   ;
+    width: 100px;
+    height: 550px;
+    border: 2px;
+    padding: 10px 20px;
+    display: block;
+    margin-left: -3.2%
+}
+
+#form-login{
+    padding: 20px;   
+}
+
+#exampleDropdownFormEmail1{
+    margin-top: 5px;
+    margin-bottom: 25px;  
+}
+
+#exampleDropdownFormPassword1{
+    margin-top: 5px;
+}
+
+#teste{
+    margin: 10px;    
+}
+
+#dropdownMenuButtonn{
+    margin-left: 130px;  
+}
+
+#botoesmenu{
+    margin-left: 320px;  
+}
